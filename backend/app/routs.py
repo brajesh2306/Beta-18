@@ -1,4 +1,3 @@
-# backend/app/routes.py
 from flask import request, jsonify
 from utils.excel_reader import read_excel
 from utils.sql_reader import fetch_sql_data
@@ -13,7 +12,7 @@ def init_routes(app, mysql):
         if file.filename == '':
             return jsonify({"error": "No selected file"})
         
-        data = read_excel(file)  # Read data from the Excel file
+        data = read_excel(file)
         return jsonify({"message": "Data uploaded successfully", "data": data})
 
     @app.route('/get_sql_data', methods=['GET'])

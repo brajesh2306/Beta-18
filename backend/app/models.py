@@ -1,4 +1,3 @@
-# backend/app/models.py
 class FoodConsumption:
     def __init__(self, food_item, quantity_consumed, quantity_wasted, date):
         self.food_item = food_item
