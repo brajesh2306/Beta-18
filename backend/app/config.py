@@ -5,3 +5,5 @@ class Config:
     MYSQL_DB = 'food_waste_db'
     MYSQL_CURSORCLASS = 'DictCursor'
 
+
+
