@@ -2,7 +2,7 @@ from flask import request, jsonify
 from utils.excel_reader import read_excel
 from utils.sql_reader import fetch_sql_data
 from models import FoodConsumption, Inventory
-def init_routes(app, mysql):
+def init_routes(app,mysql):
 
     @app.route('/upload_excel', methods=['POST'])
     def upload_excel():
