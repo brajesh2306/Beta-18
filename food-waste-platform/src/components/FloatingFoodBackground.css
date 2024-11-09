@@ -1,0 +1,32 @@
+/* src/components/FloatingFoodBackground.css */
+
+.floating-food-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+    pointer-events: none;
+  }
+  
+  .floating-food {
+    position: absolute;
+    font-size: 2.5rem;
+    transition: all 0.5s ease-in-out; /* Smooth transition for every position change */
+    user-select: none;
+    opacity: 0.9;
+  }
+  
+  /* Assign each item a color for a vibrant, varied look */
+  .floating-food:nth-child(1) { color: #FEF3E2; }
+  .floating-food:nth-child(2) { color: #FAB12F; }
+  .floating-food:nth-child(3) { color: #FA812F; }
+  .floating-food:nth-child(4) { color: #FA4032; }
+  .floating-food:nth-child(5) { color: #FAB12F; }
+  .floating-food:nth-child(6) { color: #FA812F; }
+  .floating-food:nth-child(7) { color: #FEF3E2; }
+  .floating-food:nth-child(8) { color: #FA4032; }
+  .floating-food:nth-child(9) { color: #FAB12F; }
+  
