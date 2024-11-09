@@ -1,5 +1,36 @@
 /* src/App.css */
 /* App.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.logo {
+  width: 50px; /* Adjust the width as needed */
+  height: auto;
+}
+
+.org-name {
+  margin-right: 20px; /* Adjust the margin as needed */
+  color: var(--light-bg); /* Match the text color */
+  height: 100%;
+  width: 37%;
+  display: flex;
+  background-color: rgb(95, 95, 95);
+  border-radius: 10px;
+  padding: 10px ;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Other existing styles */
+/* .background-image {
+  /* Your existing background image styles */
+/* } */
+
+/* App.css */
 body, html {
   margin: 0;
   padding: 0;
@@ -109,16 +140,6 @@ body, html {
   border-radius: 8px;
 }
 
-.org_card{
-  height: 100%;
-  width: 30%;
-  display: flex;
-  background-color: rgb(103, 103, 103);
-  border-radius: 10px;
-  padding: 5px ;
-  margin-top: 10px;
-  text-align: center;
-}
 
 /* App.css */
 .highlight {

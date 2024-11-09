@@ -1,0 +1,201 @@
+Date,Meal Time,Expected Diners,Actual Diners,Food Prepared (kg),Food Consumed (kg),Portion Size (g),Food Waste (kg),Special Event,Satisfaction Score,Waste Feedback,Surplus Food (kg),Food Distributed (kg),Weather,Suggestions
+2024-07-01,Dinner,3906,3904,77.29,64.56,324,12.73,No Event,2,Moderate Waste,7.33,5.39,Rainy,Consider changing the menu or improving food quality.
+2024-07-02,Lunch,2541,2491,57.87,44.72,307,13.15,Holiday,5,Minimal Waste,5.35,4.08,Rainy,Consider offering warm food options.
+2024-05-24,Dinner,2767,2806,67.96,51.1,499,16.86,No Event,4,Moderate Waste,8.08,5.11,Rainy,Consider offering warm food options.
+2024-03-05,Lunch,2010,1969,87.09,86.04,301,1.05,Holiday,1,Minimal Waste,6.51,5.85,Windy,Consider changing the menu or improving food quality.
+2024-01-06,Lunch,2464,2462,61.47,59.36,310,2.11,No Event,3,Moderate Waste,3.49,2.84,Cloudy,Portion sizes seem optimal; continue as is.
+2024-01-11,Dinner,3276,3316,81.81,66.64,327,15.17,Sports Day,2,Moderate Waste,6.15,2.68,Sunny,Consider changing the menu or improving food quality.
+2024-09-07,Dinner,3328,3293,65.34,45.2,485,20.14,Holiday,4,High Waste,2.21,2.03,Windy,Reduce portion size by 10-20% for the next meal.
+2024-04-15,Dinner,2681,2666,68.9,50.1,445,18.8,Sports Day,3,Moderate Waste,7.67,3.62,Cloudy,Increase portions slightly for high energy consumption.
+2024-01-28,Breakfast,2337,2290,84.99,71.8,273,13.19,Holiday,2,Minimal Waste,3.78,3.28,Rainy,Consider changing the menu or improving food quality.
+2024-07-06,Lunch,2507,2478,67.12,58.64,365,8.48,Staff Meeting,2,High Waste,6.36,3.65,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-07-15,Breakfast,1600,1564,53.84,52.3,253,1.54,Sports Day,2,Minimal Waste,3.46,3.38,Rainy,Consider changing the menu or improving food quality.
+2024-02-26,Lunch,2166,2182,94.68,77.65,326,17.03,Holiday,4,High Waste,1.78,1.76,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-03-25,Lunch,2845,2890,64.52,48.88,317,15.64,Staff Meeting,5,Minimal Waste,7.74,2.49,Sunny,Portion sizes seem optimal; continue as is.
+2024-11-05,Lunch,2799,2842,84.68,80.71,310,3.97,No Event,2,High Waste,3.34,2.38,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-07-11,Dinner,3409,3402,58.27,51.13,481,7.14,No Event,2,High Waste,7.28,1.73,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-09-18,Breakfast,1061,1056,51.57,44.32,296,7.25,Staff Meeting,1,Minimal Waste,3.11,1.29,Windy,Consider changing the menu or improving food quality.
+2024-10-04,Dinner,2755,2751,92.31,49.31,392,43.0,Holiday,5,High Waste,8.44,4.87,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-08-02,Dinner,2508,2492,58.39,49.3,318,9.09,Holiday,3,High Waste,2.88,0.76,Windy,Reduce portion size by 10-20% for the next meal.
+2024-02-08,Breakfast,2364,2379,93.81,48.73,338,45.08,Sports Day,3,Minimal Waste,3.36,0.77,Rainy,Increase portions slightly for high energy consumption.
+2024-03-10,Lunch,2610,2561,67.28,50.16,330,17.12,No Event,4,High Waste,7.21,1.1,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-06-05,Dinner,2636,2659,92.94,46.5,359,46.44,Holiday,4,High Waste,4.65,0.5,Windy,Reduce portion size by 10-20% for the next meal.
+2024-01-19,Dinner,2713,2710,85.28,45.54,456,39.74,Staff Meeting,2,Minimal Waste,6.01,4.84,Sunny,Consider changing the menu or improving food quality.
+2024-04-09,Lunch,2573,2615,89.62,87.19,383,2.43,Sports Day,4,Minimal Waste,8.31,2.9,Sunny,Increase portions slightly for high energy consumption.
+2024-05-27,Breakfast,2389,2351,67.68,45.52,255,22.16,Sports Day,1,High Waste,7.08,4.19,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-01-25,Breakfast,1290,1340,50.43,49.23,253,1.2,Holiday,3,High Waste,5.21,2.18,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-07-27,Breakfast,1245,1234,84.98,84.06,333,0.92,Holiday,3,Minimal Waste,1.71,0.61,Windy,Portion sizes seem optimal; continue as is.
+2024-06-13,Dinner,2607,2585,87.05,59.13,458,27.92,Sports Day,1,Minimal Waste,4.96,3.0,Rainy,Consider changing the menu or improving food quality.
+2024-03-23,Breakfast,1470,1446,95.48,85.33,349,10.15,Staff Meeting,2,Minimal Waste,8.76,3.67,Windy,Consider changing the menu or improving food quality.
+2024-03-20,Breakfast,2002,1973,78.96,68.42,293,10.54,No Event,4,Moderate Waste,9.9,5.7,Windy,Portion sizes seem optimal; continue as is.
+2024-05-31,Dinner,3614,3643,86.41,55.29,408,31.12,Sports Day,3,Moderate Waste,2.07,0.58,Cloudy,Increase portions slightly for high energy consumption.
+2024-01-18,Lunch,2186,2190,54.84,44.28,375,10.56,Staff Meeting,4,Moderate Waste,6.2,3.67,Windy,Portion sizes seem optimal; continue as is.
+2024-08-26,Lunch,2602,2597,92.68,73.2,314,19.48,Holiday,4,Moderate Waste,5.36,0.71,Sunny,Portion sizes seem optimal; continue as is.
+2024-04-11,Lunch,2650,2644,70.53,50.99,333,19.54,No Event,4,Moderate Waste,5.84,4.35,Cloudy,Portion sizes seem optimal; continue as is.
+2024-07-29,Dinner,3950,3950,76.74,40.46,337,36.28,Staff Meeting,4,Moderate Waste,8.46,3.55,Rainy,Consider offering warm food options.
+2024-04-27,Lunch,2464,2431,81.39,63.29,355,18.1,No Event,3,High Waste,5.16,4.93,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-06-29,Breakfast,1256,1207,64.66,45.8,349,18.86,Sports Day,4,Minimal Waste,6.2,6.15,Sunny,Increase portions slightly for high energy consumption.
+2024-10-15,Dinner,2987,2958,74.36,72.41,337,1.95,Staff Meeting,2,Moderate Waste,7.4,5.98,Sunny,Consider changing the menu or improving food quality.
+2024-01-07,Breakfast,1099,1067,50.16,41.22,280,8.94,Holiday,3,Moderate Waste,6.73,2.65,Cloudy,Portion sizes seem optimal; continue as is.
+2024-09-04,Dinner,3909,3951,93.07,71.37,494,21.7,Staff Meeting,2,High Waste,4.3,3.2,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-04-05,Dinner,2657,2635,85.92,40.03,317,45.89,Sports Day,4,Minimal Waste,7.41,2.59,Rainy,Increase portions slightly for high energy consumption.
+2024-05-31,Dinner,2516,2510,56.26,42.53,408,13.73,No Event,2,Minimal Waste,7.63,1.22,Rainy,Consider changing the menu or improving food quality.
+2024-07-20,Lunch,2850,2850,91.98,43.18,390,48.8,Staff Meeting,1,Moderate Waste,8.34,5.24,Windy,Consider changing the menu or improving food quality.
+2024-03-27,Breakfast,1588,1565,88.53,80.08,291,8.45,Sports Day,1,High Waste,5.01,3.38,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-09-30,Breakfast,1917,1952,65.88,53.74,337,12.14,Holiday,2,High Waste,9.5,3.97,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-07-16,Breakfast,1443,1465,72.04,42.82,324,29.22,Staff Meeting,2,Minimal Waste,8.26,4.89,Sunny,Consider changing the menu or improving food quality.
+2024-10-30,Dinner,3900,3916,69.93,50.12,403,19.81,No Event,1,High Waste,2.24,2.16,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-02-25,Lunch,2499,2451,62.04,53.17,358,8.87,No Event,2,Moderate Waste,2.93,1.26,Sunny,Consider changing the menu or improving food quality.
+2024-04-30,Breakfast,1082,1084,64.25,57.13,280,7.12,No Event,5,Moderate Waste,8.75,7.23,Cloudy,Portion sizes seem optimal; continue as is.
+2024-04-20,Dinner,2924,2942,68.91,51.87,384,17.04,No Event,4,Minimal Waste,6.86,6.58,Sunny,Portion sizes seem optimal; continue as is.
+2024-06-19,Lunch,2277,2289,61.26,56.01,357,5.25,Holiday,3,Minimal Waste,2.22,1.84,Windy,Portion sizes seem optimal; continue as is.
+2024-09-24,Lunch,2992,3039,78.99,52.29,373,26.7,Staff Meeting,2,Minimal Waste,0.86,0.71,Windy,Consider changing the menu or improving food quality.
+2024-01-04,Lunch,2272,2273,68.08,66.71,370,1.37,Staff Meeting,5,High Waste,7.71,6.17,Windy,Reduce portion size by 10-20% for the next meal.
+2024-11-08,Dinner,3284,3272,62.69,56.14,369,6.55,Holiday,2,Moderate Waste,5.06,4.18,Sunny,Consider changing the menu or improving food quality.
+2024-09-15,Lunch,2955,2917,83.11,75.52,334,7.59,Holiday,3,Moderate Waste,7.02,1.93,Cloudy,Portion sizes seem optimal; continue as is.
+2024-09-13,Lunch,2437,2471,97.7,87.44,302,10.26,Sports Day,3,Minimal Waste,0.73,0.69,Rainy,Increase portions slightly for high energy consumption.
+2024-03-29,Dinner,3404,3412,83.17,51.04,416,32.13,Sports Day,2,Minimal Waste,6.84,4.34,Windy,Consider changing the menu or improving food quality.
+2024-03-10,Lunch,2894,2898,97.95,42.37,307,55.58,Staff Meeting,2,High Waste,1.17,1.15,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-07-02,Lunch,2120,2163,61.51,52.91,373,8.6,No Event,3,Minimal Waste,1.97,1.2,Sunny,Portion sizes seem optimal; continue as is.
+2024-05-30,Breakfast,2282,2241,71.12,61.72,298,9.4,Staff Meeting,3,High Waste,2.51,0.73,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-03-05,Breakfast,1148,1120,65.05,54.55,300,10.5,No Event,4,High Waste,1.67,0.91,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-11-01,Breakfast,1040,1066,61.24,49.87,330,11.37,No Event,3,Minimal Waste,1.57,1.14,Sunny,Portion sizes seem optimal; continue as is.
+2024-05-26,Lunch,2582,2610,86.79,50.96,320,35.83,Sports Day,2,Minimal Waste,8.67,5.21,Windy,Consider changing the menu or improving food quality.
+2024-03-28,Breakfast,2425,2451,59.93,55.84,282,4.09,Holiday,1,Moderate Waste,1.3,0.78,Cloudy,Consider changing the menu or improving food quality.
+2024-10-19,Breakfast,2437,2415,59.42,44.42,330,15.0,Sports Day,4,Moderate Waste,9.67,2.03,Rainy,Increase portions slightly for high energy consumption.
+2024-03-31,Breakfast,1920,1954,62.23,60.78,285,1.45,Holiday,4,Minimal Waste,3.9,3.29,Sunny,Portion sizes seem optimal; continue as is.
+2024-10-01,Dinner,3328,3359,79.59,55.17,388,24.42,No Event,5,Minimal Waste,3.81,3.3,Windy,Portion sizes seem optimal; continue as is.
+2024-10-26,Breakfast,2217,2227,68.77,57.14,286,11.63,Staff Meeting,4,High Waste,6.06,4.4,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-06-20,Breakfast,2326,2332,90.67,64.73,316,25.94,Sports Day,3,Moderate Waste,8.94,2.59,Sunny,Increase portions slightly for high energy consumption.
+2024-04-11,Lunch,2212,2215,51.18,45.2,400,5.98,Staff Meeting,5,Moderate Waste,1.3,0.84,Sunny,Portion sizes seem optimal; continue as is.
+2024-08-04,Breakfast,1850,1861,88.73,52.98,345,35.75,Sports Day,1,Minimal Waste,3.43,2.71,Sunny,Consider changing the menu or improving food quality.
+2024-08-27,Dinner,3479,3475,68.09,42.83,495,25.26,Sports Day,2,Minimal Waste,0.6,0.59,Windy,Consider changing the menu or improving food quality.
+2024-06-24,Dinner,3035,3006,60.85,41.12,334,19.73,Sports Day,5,High Waste,5.99,2.9,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-03-12,Dinner,3810,3831,89.08,70.2,453,18.88,No Event,3,High Waste,7.84,6.56,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-03-15,Dinner,3739,3738,60.0,56.75,418,3.25,Sports Day,1,Moderate Waste,6.08,1.52,Rainy,Consider changing the menu or improving food quality.
+2024-09-27,Dinner,3936,3902,84.49,76.78,458,7.71,No Event,3,Moderate Waste,6.08,5.01,Windy,Portion sizes seem optimal; continue as is.
+2024-01-06,Lunch,2223,2204,85.83,43.76,369,42.07,Holiday,2,Minimal Waste,0.87,0.8,Sunny,Consider changing the menu or improving food quality.
+2024-08-15,Dinner,3221,3251,58.14,48.83,444,9.31,No Event,1,Minimal Waste,1.74,0.77,Cloudy,Consider changing the menu or improving food quality.
+2024-06-03,Breakfast,1007,979,83.55,66.74,333,16.81,Staff Meeting,3,Minimal Waste,8.19,1.66,Windy,Portion sizes seem optimal; continue as is.
+2024-09-16,Dinner,2788,2801,62.46,53.71,326,8.75,No Event,3,High Waste,7.28,7.19,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-03-25,Dinner,2911,2960,94.02,61.3,410,32.72,Holiday,5,Minimal Waste,2.37,2.23,Cloudy,Portion sizes seem optimal; continue as is.
+2024-01-30,Lunch,2675,2656,75.74,61.91,361,13.83,Holiday,3,Moderate Waste,0.89,0.67,Sunny,Portion sizes seem optimal; continue as is.
+2024-02-16,Dinner,2591,2560,89.86,69.68,377,20.18,Holiday,4,Moderate Waste,5.58,1.61,Cloudy,Portion sizes seem optimal; continue as is.
+2024-03-11,Dinner,2752,2790,98.8,91.07,305,7.73,Sports Day,4,Moderate Waste,1.14,1.13,Windy,Increase portions slightly for high energy consumption.
+2024-07-20,Dinner,2771,2795,85.81,74.14,479,11.67,No Event,1,Minimal Waste,2.32,0.7,Cloudy,Consider changing the menu or improving food quality.
+2024-09-22,Breakfast,1763,1797,50.18,45.31,312,4.87,Staff Meeting,4,High Waste,3.39,1.11,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-07-06,Lunch,2972,2940,66.17,44.37,396,21.8,No Event,2,Minimal Waste,4.92,4.18,Cloudy,Consider changing the menu or improving food quality.
+2024-08-22,Dinner,3407,3455,69.92,41.62,434,28.3,No Event,4,High Waste,7.27,5.03,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-10-18,Breakfast,1064,1093,69.62,58.64,347,10.98,Staff Meeting,1,Minimal Waste,9.31,6.67,Windy,Consider changing the menu or improving food quality.
+2024-10-16,Dinner,3566,3540,69.51,54.72,364,14.79,Holiday,2,High Waste,6.66,5.23,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-03-23,Breakfast,2363,2340,84.97,63.34,254,21.63,Holiday,1,Moderate Waste,5.55,4.4,Rainy,Consider changing the menu or improving food quality.
+2024-02-09,Lunch,2708,2751,82.94,53.46,347,29.48,Sports Day,4,Moderate Waste,4.86,2.44,Sunny,Increase portions slightly for high energy consumption.
+2024-06-30,Dinner,3396,3375,63.08,45.07,441,18.01,Sports Day,1,High Waste,1.14,0.55,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-03-15,Dinner,2981,2960,52.54,51.04,440,1.5,Staff Meeting,5,Minimal Waste,9.61,7.87,Windy,Portion sizes seem optimal; continue as is.
+2024-04-25,Lunch,2612,2604,53.24,46.49,356,6.75,No Event,3,Moderate Waste,4.6,1.1,Windy,Portion sizes seem optimal; continue as is.
+2024-10-31,Dinner,2718,2747,91.98,55.75,353,36.23,Staff Meeting,5,Moderate Waste,6.1,0.71,Cloudy,Portion sizes seem optimal; continue as is.
+2024-07-29,Breakfast,1569,1547,79.81,45.79,299,34.02,Sports Day,1,High Waste,4.36,3.81,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-03-17,Breakfast,2244,2204,93.3,48.96,285,44.34,Staff Meeting,4,Minimal Waste,7.15,1.69,Rainy,Consider offering warm food options.
+2024-01-18,Lunch,2457,2425,57.15,53.49,303,3.66,Holiday,4,High Waste,4.85,1.56,Windy,Reduce portion size by 10-20% for the next meal.
+2024-10-18,Breakfast,2306,2332,57.25,47.48,291,9.77,No Event,1,Moderate Waste,1.22,0.92,Rainy,Consider changing the menu or improving food quality.
+2024-09-29,Dinner,3032,3069,70.51,67.66,490,2.85,Staff Meeting,1,High Waste,3.06,2.42,Windy,Reduce portion size by 10-20% for the next meal.
+2024-05-13,Dinner,3297,3318,88.72,81.24,429,7.48,Holiday,1,Moderate Waste,1.39,0.54,Windy,Consider changing the menu or improving food quality.
+2024-09-14,Breakfast,1285,1298,79.65,47.49,269,32.16,Sports Day,5,Moderate Waste,7.6,5.09,Cloudy,Increase portions slightly for high energy consumption.
+2024-10-29,Lunch,2994,2999,61.84,55.93,338,5.91,No Event,4,Moderate Waste,5.28,0.66,Rainy,Consider offering warm food options.
+2024-01-22,Breakfast,2162,2126,55.37,46.29,311,9.08,Holiday,1,Minimal Waste,1.54,1.17,Sunny,Consider changing the menu or improving food quality.
+2024-09-22,Lunch,2225,2273,68.53,67.94,362,0.59,Holiday,2,Moderate Waste,9.07,2.06,Windy,Consider changing the menu or improving food quality.
+2024-09-25,Lunch,2049,2057,76.41,69.61,392,6.8,Staff Meeting,5,Minimal Waste,7.86,6.7,Cloudy,Portion sizes seem optimal; continue as is.
+2024-07-22,Breakfast,1907,1956,56.85,43.74,297,13.11,Holiday,1,Minimal Waste,4.03,1.26,Sunny,Consider changing the menu or improving food quality.
+2024-11-04,Lunch,2713,2699,71.83,67.98,381,3.85,No Event,1,Minimal Waste,4.5,0.85,Rainy,Consider changing the menu or improving food quality.
+2024-07-30,Dinner,2564,2527,62.16,42.24,497,19.92,Holiday,3,High Waste,6.1,5.22,Windy,Reduce portion size by 10-20% for the next meal.
+2024-08-02,Lunch,2593,2577,86.38,67.7,314,18.68,Sports Day,2,Minimal Waste,4.95,2.7,Cloudy,Consider changing the menu or improving food quality.
+2024-05-05,Breakfast,2319,2314,68.09,62.31,331,5.78,Sports Day,4,Minimal Waste,7.22,4.18,Rainy,Increase portions slightly for high energy consumption.
+2024-08-25,Lunch,2074,2061,91.24,45.01,302,46.23,Sports Day,2,Moderate Waste,3.33,1.38,Cloudy,Consider changing the menu or improving food quality.
+2024-04-08,Breakfast,1258,1272,97.55,68.49,303,29.06,Staff Meeting,5,Minimal Waste,7.17,3.53,Cloudy,Portion sizes seem optimal; continue as is.
+2024-11-06,Lunch,2808,2814,70.15,59.57,317,10.58,Holiday,4,Minimal Waste,0.6,0.59,Sunny,Portion sizes seem optimal; continue as is.
+2024-10-03,Lunch,2912,2885,90.59,68.94,362,21.65,Staff Meeting,4,Moderate Waste,2.92,1.03,Rainy,Consider offering warm food options.
+2024-05-31,Breakfast,1072,1036,52.73,40.14,329,12.59,Sports Day,5,High Waste,4.12,2.72,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-10-30,Dinner,3674,3627,57.29,51.99,484,5.3,Sports Day,3,High Waste,9.92,2.67,Windy,Reduce portion size by 10-20% for the next meal.
+2024-09-28,Lunch,2530,2520,89.07,59.5,319,29.57,Holiday,4,Minimal Waste,8.82,0.87,Rainy,Consider offering warm food options.
+2024-05-17,Dinner,3284,3261,98.73,52.79,310,45.94,Sports Day,2,Moderate Waste,5.25,2.8,Windy,Consider changing the menu or improving food quality.
+2024-02-23,Dinner,3648,3612,60.87,44.69,390,16.18,Staff Meeting,2,Moderate Waste,3.22,2.61,Cloudy,Consider changing the menu or improving food quality.
+2024-10-27,Lunch,2723,2674,74.09,73.02,351,1.07,No Event,2,Moderate Waste,5.25,1.52,Rainy,Consider changing the menu or improving food quality.
+2024-02-02,Lunch,2187,2160,96.36,63.59,310,32.77,Staff Meeting,4,Moderate Waste,3.14,2.15,Windy,Portion sizes seem optimal; continue as is.
+2024-02-05,Lunch,2676,2681,94.24,60.0,350,34.24,Holiday,2,Moderate Waste,8.5,6.32,Cloudy,Consider changing the menu or improving food quality.
+2024-01-09,Dinner,3204,3224,77.42,68.88,341,8.54,Sports Day,2,Moderate Waste,7.75,5.44,Sunny,Consider changing the menu or improving food quality.
+2024-08-20,Breakfast,1399,1362,61.53,55.56,301,5.97,Staff Meeting,2,Minimal Waste,2.91,0.98,Sunny,Consider changing the menu or improving food quality.
+2024-09-02,Lunch,2472,2423,85.87,72.64,341,13.23,Holiday,1,High Waste,1.67,0.76,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-02-11,Breakfast,2488,2503,64.38,57.23,278,7.15,Holiday,2,High Waste,9.26,5.27,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-07-27,Dinner,2962,2936,56.47,53.74,350,2.73,Sports Day,4,Moderate Waste,2.95,2.05,Cloudy,Increase portions slightly for high energy consumption.
+2024-03-13,Dinner,3714,3721,71.98,53.45,497,18.53,Holiday,4,Moderate Waste,5.68,1.92,Sunny,Portion sizes seem optimal; continue as is.
+2024-08-24,Breakfast,1082,1076,68.1,47.66,285,20.44,Staff Meeting,4,High Waste,3.35,1.19,Windy,Reduce portion size by 10-20% for the next meal.
+2024-09-06,Lunch,2049,2089,80.87,73.61,371,7.26,Sports Day,2,Minimal Waste,2.69,2.37,Windy,Consider changing the menu or improving food quality.
+2024-02-04,Breakfast,1444,1394,74.63,54.26,265,20.37,Sports Day,5,Moderate Waste,1.67,1.39,Cloudy,Increase portions slightly for high energy consumption.
+2024-04-02,Lunch,2298,2335,88.67,86.59,366,2.08,Staff Meeting,4,High Waste,0.81,0.61,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-06-28,Dinner,2621,2577,80.54,76.22,372,4.32,Staff Meeting,3,Minimal Waste,4.68,2.92,Rainy,Consider offering warm food options.
+2024-10-07,Breakfast,1766,1768,74.99,59.41,273,15.58,Staff Meeting,2,Minimal Waste,2.11,1.72,Cloudy,Consider changing the menu or improving food quality.
+2024-04-13,Dinner,3102,3057,84.15,46.96,445,37.19,Staff Meeting,3,Moderate Waste,5.08,1.5,Rainy,Consider offering warm food options.
+2024-03-14,Lunch,2486,2441,78.46,47.81,330,30.65,Holiday,2,Minimal Waste,4.09,1.56,Sunny,Consider changing the menu or improving food quality.
+2024-01-31,Dinner,2809,2832,52.18,51.6,315,0.58,Holiday,4,Moderate Waste,1.0,0.77,Sunny,Portion sizes seem optimal; continue as is.
+2024-01-27,Lunch,2564,2593,86.03,80.65,313,5.38,Holiday,5,High Waste,4.61,3.58,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-03-08,Lunch,2341,2308,62.15,48.47,338,13.68,Sports Day,2,Moderate Waste,9.11,5.75,Windy,Consider changing the menu or improving food quality.
+2024-10-22,Lunch,2497,2500,66.59,42.55,368,24.04,Sports Day,2,High Waste,6.3,2.62,Windy,Reduce portion size by 10-20% for the next meal.
+2024-05-15,Dinner,3908,3878,76.47,74.09,371,2.38,Sports Day,5,High Waste,5.33,1.48,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-04-29,Breakfast,2284,2264,54.63,40.2,341,14.43,No Event,5,Moderate Waste,9.13,4.04,Rainy,Consider offering warm food options.
+2024-02-11,Breakfast,1367,1340,85.3,73.93,343,11.37,No Event,2,High Waste,3.88,1.07,Windy,Reduce portion size by 10-20% for the next meal.
+2024-01-08,Dinner,2504,2505,90.41,87.14,425,3.27,Staff Meeting,2,High Waste,2.49,2.13,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-04-11,Lunch,2550,2578,58.69,57.76,340,0.93,Holiday,5,Minimal Waste,6.84,1.25,Windy,Portion sizes seem optimal; continue as is.
+2024-09-05,Dinner,3139,3119,56.49,54.62,488,1.87,Sports Day,3,Minimal Waste,4.94,0.85,Sunny,Increase portions slightly for high energy consumption.
+2024-03-02,Dinner,2654,2670,76.55,48.82,346,27.73,No Event,4,Minimal Waste,9.59,3.54,Cloudy,Portion sizes seem optimal; continue as is.
+2024-09-02,Dinner,2901,2869,80.01,65.52,443,14.49,No Event,1,High Waste,0.55,0.51,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-05-02,Dinner,2858,2889,77.69,52.74,424,24.95,No Event,1,High Waste,9.34,4.83,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-01-23,Lunch,2358,2394,90.29,76.52,398,13.77,Holiday,2,High Waste,1.78,1.21,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-08-02,Lunch,2674,2680,55.95,45.28,347,10.67,No Event,1,High Waste,4.93,0.66,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-06-29,Breakfast,2237,2204,94.8,50.53,297,44.27,No Event,5,Minimal Waste,6.34,2.88,Windy,Portion sizes seem optimal; continue as is.
+2024-10-08,Breakfast,1332,1315,86.75,85.53,287,1.22,Staff Meeting,5,High Waste,3.06,2.35,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-08-14,Breakfast,2339,2303,54.88,48.85,267,6.03,Holiday,2,High Waste,8.98,3.4,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-06-01,Dinner,3114,3163,88.64,58.12,480,30.52,Staff Meeting,3,High Waste,5.79,3.82,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-10-14,Dinner,2780,2793,66.67,49.56,438,17.11,Sports Day,4,Minimal Waste,8.25,5.75,Windy,Increase portions slightly for high energy consumption.
+2024-10-29,Lunch,2505,2514,67.29,51.1,330,16.19,Staff Meeting,4,Moderate Waste,3.73,3.54,Rainy,Consider offering warm food options.
+2024-02-07,Lunch,2518,2510,71.31,52.04,324,19.27,Sports Day,1,Minimal Waste,3.95,3.55,Windy,Consider changing the menu or improving food quality.
+2024-07-11,Dinner,3156,3119,50.99,49.66,424,1.33,Sports Day,1,High Waste,7.96,3.09,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-02-05,Breakfast,1749,1732,88.14,48.37,288,39.77,Staff Meeting,4,Minimal Waste,7.98,6.45,Windy,Portion sizes seem optimal; continue as is.
+2024-07-09,Breakfast,2422,2417,54.12,44.3,274,9.82,Sports Day,5,Minimal Waste,6.44,4.21,Cloudy,Increase portions slightly for high energy consumption.
+2024-01-23,Lunch,2381,2403,86.79,71.7,346,15.09,Staff Meeting,4,High Waste,2.56,1.99,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-05-28,Breakfast,1141,1119,78.25,47.21,310,31.04,Holiday,4,Minimal Waste,5.86,4.73,Cloudy,Portion sizes seem optimal; continue as is.
+2024-01-12,Lunch,2981,3028,58.35,52.07,327,6.28,Sports Day,1,Minimal Waste,7.8,7.03,Rainy,Consider changing the menu or improving food quality.
+2024-05-06,Dinner,2668,2709,53.05,43.28,353,9.77,No Event,2,Moderate Waste,9.64,4.1,Windy,Consider changing the menu or improving food quality.
+2024-05-27,Dinner,2519,2501,53.31,52.91,435,0.4,Staff Meeting,1,Minimal Waste,6.41,2.4,Rainy,Consider changing the menu or improving food quality.
+2024-05-29,Dinner,3173,3180,99.37,52.02,425,47.35,Staff Meeting,3,High Waste,7.11,1.14,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-02-06,Dinner,3867,3903,85.11,51.76,342,33.35,No Event,3,Moderate Waste,4.58,1.49,Rainy,Consider offering warm food options.
+2024-02-28,Lunch,2397,2366,65.41,62.8,363,2.61,Holiday,3,High Waste,1.09,0.55,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-04-08,Lunch,2724,2772,83.99,68.64,317,15.35,Sports Day,1,Minimal Waste,8.48,4.49,Sunny,Consider changing the menu or improving food quality.
+2024-01-27,Breakfast,1176,1166,66.29,47.33,324,18.96,No Event,3,Minimal Waste,2.17,0.59,Windy,Portion sizes seem optimal; continue as is.
+2024-08-22,Breakfast,1612,1658,59.72,49.09,277,10.63,No Event,4,Minimal Waste,9.0,6.39,Cloudy,Portion sizes seem optimal; continue as is.
+2024-05-31,Breakfast,1944,1944,96.97,71.92,272,25.05,Sports Day,2,Minimal Waste,2.5,2.26,Cloudy,Consider changing the menu or improving food quality.
+2024-06-19,Lunch,2466,2474,50.94,46.07,308,4.87,Staff Meeting,4,Moderate Waste,0.83,0.77,Windy,Portion sizes seem optimal; continue as is.
+2024-02-29,Lunch,2163,2149,79.04,51.11,314,27.93,Holiday,5,High Waste,4.35,3.54,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-06-17,Breakfast,1040,996,62.49,59.8,271,2.69,Sports Day,3,Moderate Waste,1.04,0.75,Cloudy,Increase portions slightly for high energy consumption.
+2024-03-27,Breakfast,2187,2233,72.45,62.11,324,10.34,No Event,3,Moderate Waste,6.54,2.76,Windy,Portion sizes seem optimal; continue as is.
+2024-01-26,Breakfast,1940,1901,87.63,53.0,323,34.63,No Event,1,Moderate Waste,0.76,0.59,Cloudy,Consider changing the menu or improving food quality.
+2024-10-07,Breakfast,1419,1385,59.51,59.48,295,0.03,Sports Day,5,Minimal Waste,2.85,0.97,Rainy,Increase portions slightly for high energy consumption.
+2024-02-10,Breakfast,1967,1970,71.39,50.26,324,21.13,Sports Day,4,Minimal Waste,7.49,1.68,Cloudy,Increase portions slightly for high energy consumption.
+2024-06-08,Dinner,3521,3546,62.06,57.19,353,4.87,Staff Meeting,4,High Waste,8.5,6.39,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-09-20,Dinner,3587,3539,71.75,61.61,320,10.14,Staff Meeting,4,High Waste,6.53,3.34,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-03-26,Dinner,2627,2611,61.89,53.28,364,8.61,Staff Meeting,3,High Waste,6.79,1.24,Cloudy,Reduce portion size by 10-20% for the next meal.
+2024-01-14,Breakfast,1950,1997,86.34,49.5,305,36.84,Staff Meeting,2,Moderate Waste,0.67,0.58,Sunny,Consider changing the menu or improving food quality.
+2024-01-28,Lunch,2057,2097,94.89,42.26,383,52.63,Holiday,5,Minimal Waste,0.66,0.52,Windy,Portion sizes seem optimal; continue as is.
+2024-10-02,Dinner,3307,3295,69.35,44.65,471,24.7,Staff Meeting,3,High Waste,4.78,4.75,Windy,Reduce portion size by 10-20% for the next meal.
+2024-05-15,Dinner,3783,3833,78.8,58.07,475,20.73,Staff Meeting,5,Minimal Waste,4.1,3.38,Windy,Portion sizes seem optimal; continue as is.
+2024-07-14,Breakfast,2247,2282,91.87,84.06,278,7.81,Staff Meeting,2,High Waste,3.33,1.82,Windy,Reduce portion size by 10-20% for the next meal.
+2024-10-17,Dinner,3506,3493,58.09,49.49,415,8.6,Staff Meeting,5,Minimal Waste,4.43,2.0,Cloudy,Portion sizes seem optimal; continue as is.
+2024-03-24,Breakfast,1133,1087,64.16,50.88,296,13.28,No Event,4,High Waste,5.47,5.15,Sunny,Reduce portion size by 10-20% for the next meal.
+2024-07-07,Lunch,2861,2827,92.13,89.19,324,2.94,No Event,3,High Waste,9.9,7.34,Windy,Reduce portion size by 10-20% for the next meal.
+2024-03-10,Breakfast,1151,1183,91.77,44.78,346,46.99,Staff Meeting,2,Moderate Waste,9.14,5.51,Windy,Consider changing the menu or improving food quality.
+2024-07-24,Breakfast,2447,2459,69.57,40.29,282,29.28,Holiday,2,High Waste,8.71,3.83,Windy,Reduce portion size by 10-20% for the next meal.
+2024-06-30,Breakfast,2379,2349,69.67,44.52,327,25.15,Holiday,1,Minimal Waste,8.88,4.55,Cloudy,Consider changing the menu or improving food quality.
+2024-01-17,Lunch,2598,2577,74.47,57.02,326,17.45,Holiday,5,Minimal Waste,2.49,1.8,Windy,Portion sizes seem optimal; continue as is.
+2024-08-01,Dinner,2998,2977,72.79,53.38,438,19.41,Holiday,3,Minimal Waste,9.86,3.73,Sunny,Portion sizes seem optimal; continue as is.
+2024-10-07,Breakfast,1226,1206,61.53,43.82,317,17.71,Holiday,3,High Waste,4.98,3.66,Rainy,Reduce portion size by 10-20% for the next meal.
+2024-03-11,Breakfast,1114,1075,66.3,60.5,340,5.8,Staff Meeting,5,Minimal Waste,2.1,1.36,Windy,Portion sizes seem optimal; continue as is.
+2024-01-27,Lunch,2994,2954,98.17,59.49,361,38.68,No Event,5,Minimal Waste,2.34,1.55,Cloudy,Portion sizes seem optimal; continue as is.
