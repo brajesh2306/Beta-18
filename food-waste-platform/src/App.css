@@ -1,0 +1,93 @@
+/* src/App.css */
+/* App.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.background-image {
+  background-image: url('C:\Users\hp\Desktop\Beta-18\food-waste-platform\src\components\images\background2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Make sure the background image stays behind other elements */
+}
+
+/* Styling for Navbar */
+.navbar {
+  background-color: #fafafa;
+  transition: background-color 0.3s ease-in-out;
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.navbar-nav .nav-item .nav-link {
+  display: flex;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect on nav items */
+.navbar-nav .nav-item .nav-link:hover {
+  transform: scale(1.05);
+}
+
+/* Cards container layout */
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* Common card styles */
+.card {
+  width: 1000px;
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  padding: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect on cards */
+.card:hover {
+  transform: scale(0.98);
+}
+
+/* Different background colors for each card */
+.card-dashboard {
+  background-color: #FEF3E2; /* Light yellow */
+}
+
+.card-meal-planner {
+  background-color: #FAB12F; /* Orange */
+}
+
+.card-surplus-management {
+  background-color: #FA812F; /* Red-orange */
+}
+
+.card-inventory-management {
+  background-color: #FA4032; /* Red */
+}

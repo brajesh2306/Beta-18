@@ -1,0 +1,55 @@
+/* Define color variables for easy use throughout the app */
+:root {
+    --primary-light: #FEF3E2;
+    --primary: #FAB12F;
+    --secondary: #FA812F;
+    --accent: #FA4032;
+    --light-bg: rgb(254, 243, 226);
+    --dark-bg: rgb(250, 177, 47);
+  }
+  
+  /* General body styling */
+  body {
+    background-color: var(--light-bg);
+    color: var(--dark-bg);
+  }
+  
+  /* Navbar styling */
+  .navbar {
+    background-color: var(--primary-light) !important;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar-nav .nav-link {
+    color: var(--dark-bg) !important;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: var(--accent) !important;
+  }
+  
+  /* Button styles */
+  button, .btn {
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button:hover, .btn:hover {
+    background-color: var(--secondary);
+    transform: scale(1.05);
+  }
+  
+  /* Animations for smooth transitions */
+  .fade-in {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
