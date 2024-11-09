@@ -6,6 +6,7 @@ body, html {
   width: 100%;
   height: 100%;
   overflow: hidden;
+  overflow: auto; /* Ensure the body allows scrolling */
 }
 
 .container {
@@ -13,10 +14,11 @@ body, html {
   height: 100%;
   display: flex;
   flex-direction: column;
+  overflow-y: auto; /* Enable vertical scrolling */
 }
 
 .background-image {
-  background-image: url('C:\Users\hp\Desktop\Beta-18\food-waste-platform\src\components\images\background2.jpg');
+  background-image: url('C:\Users\hp\Desktop\Beta-18\food-waste-platform\src\components\images\background3.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -26,7 +28,9 @@ body, html {
   top: 0;
   left: 0;
   z-index: -1; /* Make sure the background image stays behind other elements */
+  opacity: 0.7; /* Adjust the opacity */
 }
+
 
 /* Styling for Navbar */
 .navbar {
@@ -90,4 +94,34 @@ body, html {
 
 .card-inventory-management {
   background-color: #FA4032; /* Red */
+}
+
+/* App.css */
+.food-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.food-cards .card {
+  flex: 1 1 calc(33.333% - 15px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.org_card{
+  height: 100%;
+  width: 30%;
+  display: flex;
+  background-color: rgb(103, 103, 103);
+  border-radius: 10px;
+  padding: 5px ;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* App.css */
+.highlight {
+  background-color: red !important;
+  color: white;
 }
