@@ -87,7 +87,4 @@ def load_model():
 #     print("Predicted Output:", prediction[0])
 
 # # Run the input function to test with custom inputs
-# input_data()
-
-# New Model ------------>>>
 
